@@ -19,7 +19,7 @@ DNS Data Analysis](https://arxiv.org/abs/1805.08426)
 2021.11.19\
 1.[FLAG: Flow Representation Generator based on Self-supervised Learning for Encrypted Traffic Classification](https://conferences.sigcomm.org/events/apnet2021/papers/apnet2021-1.pdf)\
 2.[NetAdapt: Platform-Aware Neural Network Adaptation for Mobile Applications](https://www.researchgate.net/publication/324435700_NetAdapt_Platform-Aware_Neural_Network_Adaptation_for_Mobile_Applications)\
-3.[MobileDets: Searching for Object Detection Architectures for Mobile Accelerators](https://openaccess.thecvf.com/content/CVPR2021/papers/Xiong_MobileDets_Searching_for_Object_Detection_Architectures_for_Mobile_Accelerators_CVPR_2021_paper.pdf)
-
-
+3.[MobileDets: Searching for Object Detection Architectures for Mobile Accelerators](https://openaccess.thecvf.com/content/CVPR2021/papers/Xiong_MobileDets_Searching_for_Object_Detection_Architectures_for_Mobile_Accelerators_CVPR_2021_paper.pdf)\
+4.[EBSNN: Extended Byte Segment Neural Network for Network Traffic Classification](https://ieeexplore.ieee.org/document/9503323)\
+5.[Self-attentive deep learning method for online traffic classification and its interpretability](https://www.sciencedirect.com/science/article/pii/S1389128621002930)
 

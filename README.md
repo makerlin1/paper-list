@@ -21,5 +21,9 @@ DNS Data Analysis](https://arxiv.org/abs/1805.08426)
 2.[NetAdapt: Platform-Aware Neural Network Adaptation for Mobile Applications](https://www.researchgate.net/publication/324435700_NetAdapt_Platform-Aware_Neural_Network_Adaptation_for_Mobile_Applications)\
 3.[MobileDets: Searching for Object Detection Architectures for Mobile Accelerators](https://openaccess.thecvf.com/content/CVPR2021/papers/Xiong_MobileDets_Searching_for_Object_Detection_Architectures_for_Mobile_Accelerators_CVPR_2021_paper.pdf)\
 4.[EBSNN: Extended Byte Segment Neural Network for Network Traffic Classification](https://ieeexplore.ieee.org/document/9503323)\
-5.[Self-attentive deep learning method for online traffic classification and its interpretability](https://www.sciencedirect.com/science/article/pii/S1389128621002930)
+5.[Self-attentive deep learning method for online traffic classification and its interpretability](https://www.sciencedirect.com/science/article/pii/S1389128621002930)\
+2021.12.3\
+1.[NetAdaptV2: Efficient Neural Architecture Search with Fast Super-Network Training and Architecture Optimization](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_NetAdaptV2_Efficient_Neural_Architecture_Search_With_Fast_Super-Network_Training_and_CVPR_2021_paper.pdf)\
+2.[FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search](https://research.fb.com/wp-content/uploads/2019/05/FBNet-Hardware-Aware-Efficient-ConvNet-Design-via-Differentiable-Neural-Architecture-Search.pdf)\
+3.[Trading Accuracy for Simplicity in Decision Trees](https://link.springer.com/content/pdf/10.1023%2FA%3A1022685808937.pdf)
 

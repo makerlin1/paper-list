@@ -29,6 +29,8 @@ DNS Data Analysis](https://arxiv.org/abs/1805.08426)
 
 ### some_darts/nas_latency_work
 
+last updated at 2022/3/13 by zhenning shi
+
 1. [[arxiv2019]DARTS+:  Improved Differentiable Architecture Search with Early Stopping](https://arxiv.org/pdf/1909.06035.pdf)
 2. [[ICCV2019]Resource Constrained Neural Network Architecture Search: Will a Submodularity Assumption Help](https://openaccess.thecvf.com/content_ICCV_2019/papers/Xiong_Resource_Constrained_Neural_Network_Architecture_Search_Will_a_Submodularity_Assumption_ICCV_2019_paper.pdf)
 3. [[CVPR2020]AOWS: Adaptive and Optimal Network Width Search with Latency Constraints](https://openaccess.thecvf.com/content_CVPR_2020/papers/Berman_AOWS_Adaptive_and_Optimal_Network_Width_Search_With_Latency_Constraints_CVPR_2020_paper.pdf)

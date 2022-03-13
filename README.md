@@ -27,3 +27,12 @@ DNS Data Analysis](https://arxiv.org/abs/1805.08426)
 2.[FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search](https://research.fb.com/wp-content/uploads/2019/05/FBNet-Hardware-Aware-Efficient-ConvNet-Design-via-Differentiable-Neural-Architecture-Search.pdf)\
 3.[Trading Accuracy for Simplicity in Decision Trees](https://link.springer.com/content/pdf/10.1023%2FA%3A1022685808937.pdf)
 
+### some_darts/nas_latency_work
+
+1. [[arxiv2019]DARTS+:  Improved Differentiable Architecture Search with Early Stopping](https://arxiv.org/pdf/1909.06035.pdf)
+2. [[ICCV2019]Resource Constrained Neural Network Architecture Search: Will a Submodularity Assumption Help](https://openaccess.thecvf.com/content_ICCV_2019/papers/Xiong_Resource_Constrained_Neural_Network_Architecture_Search_Will_a_Submodularity_Assumption_ICCV_2019_paper.pdf)
+3. [[CVPR2020]AOWS: Adaptive and Optimal Network Width Search with Latency Constraints](https://openaccess.thecvf.com/content_CVPR_2020/papers/Berman_AOWS_Adaptive_and_Optimal_Network_Width_Search_With_Latency_Constraints_CVPR_2020_paper.pdf)
+4. [[ECCV2020]TF-NAS: Rethinking Three Search Freedoms of Latency-Constrained Differentiable Neural Architecture Search](https://arxiv.org/pdf/2008.05314.pdf)
+5. [[CVPR2021]DOTS: Decoupling Operation and Topology in Differentiable Architecture Search](https://openaccess.thecvf.com/content/CVPR2021/papers/Gu_DOTS_Decoupling_Operation_and_Topology_in_Differentiable_Architecture_Search_CVPR_2021_paper.pdf)
+6. [[ICLR2021]DARTS-: Robustly Stepping out of Performance Collapse without Indicators](https://arxiv.org/pdf/2009.01027.pdf?ref=https://githubhelp.com)
+
